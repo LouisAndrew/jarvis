@@ -1,0 +1,4 @@
+autogen/*
+.env
+src/__pycache__/*
+.cache/*
